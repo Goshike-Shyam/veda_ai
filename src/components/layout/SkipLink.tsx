@@ -1,0 +1,14 @@
+import { useTranslations } from 'next-intl';
+
+export function SkipLink() {
+  const t = useTranslations('a11y');
+
+  return (
+    <a
+      href="#main"
+      className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-[#F4F5FF] focus:px-4 focus:py-2 focus:text-[#141A45]"
+    >
+      {t('skipLink')}
+    </a>
+  );
+}

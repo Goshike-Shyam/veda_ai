@@ -1,0 +1,223 @@
+{
+  "common": {
+    "siteName": "Veda AI Technologies",
+    "tagline": "Practical AI products that make knowledge accessible.",
+    "learnMore": "Learn more",
+    "partnerWithUs": "Partner with us",
+    "contactUs": "Contact us",
+    "startConversation": "Start a conversation",
+    "opensInNewTab": "(opens in a new tab)",
+    "soon": "Soon",
+    "live": "Live",
+    "comingSoon": "Coming soon",
+    "notAvailable": "Coming soon",
+    "copyright": "© {year} Veda AI Technologies",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "nav": {
+    "primary": "Primary navigation",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "products": "Products",
+    "about": "About",
+    "vision": "Vision & impact",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Contact",
+    "partner": "Partner with us",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "footer": {
+    "tagline": "Practical AI products that make knowledge accessible.",
+    "company": "Company",
+    "products": "Products",
+    "resources": "Resources",
+    "studentAssistant": "Student Assistant",
+    "juriq": "Juriq",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "home": {
+    "eyebrow": "VEDA AI TECHNOLOGIES",
+    "heroTitle": "Empowered with AI",
+    "heroLead": "We build practical AI products that make knowledge accessible. Student Assistant is live for school learning, and Juriq, a smart legal assistant, is on the way.",
+    "primaryCta": "Explore Student Assistant",
+    "secondaryCta": "Partner with us",
+    "logoAlt": "Veda AI Technologies logo: a swan, veena and lotus inside a circle of connected nodes",
+    "audienceTitle": "Find what you need",
+    "audienceCards": [
+      { "title": "Parents and students", "href": "/products/student-assistant" },
+      { "title": "Schools and institutions", "href": "/partner" },
+      { "title": "Government and programs", "href": "/vision" },
+      { "title": "Investors, partners and recruiters", "href": "/about" },
+      { "title": "Have a question?", "href": "/faq" }
+    ],
+    "productsTitle": "Our products",
+    "studentAssistantTitle": "Student Assistant",
+    "studentAssistantLead": "An AI learning companion for Grades 1 to 12: curriculum-aligned research help, practice tests, assignments, a parent progress portal and teacher tools.",
+    "studentAssistantChips": ["CBSE", "ICSE", "IGCSE", "State Boards", "Common Core", "18 response languages"],
+    "studentAssistantLaunch": "Launch the app",
+    "juriqTitle": "Juriq",
+    "juriqLead": "Juris meets IQ. A smart legal assistant, currently at concept stage.",
+    "juriqNote": "Informational assistance only, not legal advice.",
+    "juriqButton": "Get in touch",
+    "principlesTitle": "Our principles",
+    "principles": [
+      { "title": "Practical", "copy": "Built around the real problems of learners and professionals." },
+      { "title": "Responsible", "copy": "Safe, privacy-first AI with child-safety guardrails." },
+      { "title": "Accessible", "copy": "Indian languages and accessible design from day one." }
+    ],
+    "visionTitle": "A world where anyone can access knowledge, guidance and opportunity through trustworthy AI.",
+    "visionLead": "To build practical, safe and accessible AI products that help people learn, understand and act with confidence, starting with students and schools in India.",
+    "founderName": "Shyam Sunder Goshike",
+    "founderLead": "Over 19 years building and leading software programs across healthcare, education, insurance and e-commerce, now turning that experience into AI products that make knowledge easier to reach.",
+    "partnerTitle": "Partner with us",
+    "partnerLead": "Schools, institutions, government programs and investors: let us build something useful together.",
+    "partnerButton": "Start a conversation"
+  },
+  "products": {
+    "overviewTitle": "Products that make knowledge easier to reach",
+    "overviewLead": "Student Assistant is our live product for students, parents and teachers. Juriq is a planned legal assistant at concept stage.",
+    "studentAssistantTitle": "Student Assistant",
+    "studentAssistantLead": "A practical AI learning companion for Grades 1 to 12.",
+    "forEveryRole": "Built for every role",
+    "roleStudents": "Students: research help, practice tests, assignments, study library, streaks and badges.",
+    "roleParents": "Parents: progress dashboard, session history, content-safety alerts, practice scores.",
+    "roleTeachers": "Teachers: classes, assignments, submissions, feedback.",
+    "boardsTitle": "Your board, your syllabus",
+    "boards": ["CBSE", "ICSE/ISC", "IGCSE/A-Level", "State boards", "Common Core", "Grades 1-12"],
+    "safeTitle": "Safe by design",
+    "safeCopy": "Age-appropriate language, answers bounded to grade and curriculum, content safety in every language, parent visibility, designed with DPDP and COPPA principles in mind.",
+    "languageTitle": "Languages",
+    "languages": ["18 response languages"],
+    "trialTitle": "3-day free trial",
+    "trialCta": "Launch the app",
+    "juriqTitle": "Juriq",
+    "juriqLead": "A smart legal assistant at concept stage.",
+    "juriqNote": "Informational assistance only, not legal advice.",
+    "juriqCta": "Get in touch",
+    "comingSoon": "Coming soon"
+  },
+  "about": {
+    "title": "About Veda AI Technologies",
+    "lede": "Veda means knowledge. Veda AI Technologies is based in Hyderabad and builds AI products that make knowledge easier to reach, beginning with students.",
+    "story": "The logo integrates a veena, swan and lotus, representing learning, discernment and growth. The network arc represents AI connecting insight to action.",
+    "founderTitle": "Founder",
+    "founderIntro": "Shyam Sunder Goshike",
+    "highlights": [
+      "19+ years in software delivery across healthcare, education, insurance and e-commerce",
+      "Led AI-driven digital transformation and GenAI programs",
+      "Delivered GenAI chatbots and agentic-AI workflows",
+      "Built and shipped Student Assistant end to end as a solo founder"
+    ]
+  },
+  "vision": {
+    "title": "Our vision for the future of learning",
+    "lede": "We are building toward a future where AI helps every learner, teacher and parent make progress with clarity and trust.",
+    "items": [
+      "Personalised practice at scale",
+      "Teacher time saved",
+      "Parent visibility",
+      "Language inclusion",
+      "Child-safe AI"
+    ],
+    "missionTitle": "Mission",
+    "missionLead": "To build practical, safe and accessible AI products that help people learn, understand and act with confidence, starting with students and schools in India."
+  },
+  "partner": {
+    "title": "Partner with Veda AI",
+    "lede": "We work with schools, institutions, government programs and investors who want practical AI for real-world learning and impact.",
+    "cta": "Start a conversation"
+  },
+  "contact": {
+    "title": "Contact us",
+    "lede": "We are building useful AI products and partnerships for education, policy and learning.",
+    "name": "Your name",
+    "email": "Email address",
+    "message": "Message",
+    "submit": "Send message",
+    "consent": "I agree to be contacted in relation to this inquiry.",
+    "success": "Thank you. Your message has been sent."
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      { "question": "What is Veda AI Technologies?", "answer": "A Hyderabad-based company building practical AI products that make knowledge accessible." },
+      { "question": "Who is Student Assistant for?", "answer": "Students in Grades 1-12, their parents and teachers." },
+      { "question": "Which boards and grades?", "answer": "CBSE, ICSE/ISC, IGCSE/A-Level, State boards and Common Core; Grades 1-12." },
+      { "question": "Is there a free trial?", "answer": "Yes, 3 days free." },
+      { "question": "How do you keep children safe?", "answer": "Answers stay within the student's grade and curriculum, safety rules apply in every language, and parents can see progress and flagged queries." },
+      { "question": "How is data handled?", "answer": "We collect only what is needed to run the service; see the Privacy Policy." },
+      { "question": "Do you offer school licences?", "answer": "Yes, contact us through Partner with us." },
+      { "question": "What is Juriq, and is it legal advice?", "answer": "A planned smart legal assistant at concept stage; general information only, not legal advice." },
+      { "question": "How can we partner?", "answer": "Use the Partner with us form." }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "lede": "Coming soon. We will share product, AI and education updates here.",
+    "cta": "Get in touch"
+  },
+  "legal": {
+    "title": "Privacy Policy",
+    "lede": "This is a draft policy for launch review and finalisation before public release.",
+    "draft": "We collect personal data only when submitted through our forms or product flows. We use this data to respond to inquiries, operate services and improve safety. We keep data only for as long as necessary and use Resend and Vercel as service providers. Subject to local law, you may request access, correction, deletion and objection to processing. Please contact us to exercise these rights.",
+    "types": "We do not sell personal data."
+  },
+  "forms": {
+    "required": "Required",
+    "consent": "Consent",
+    "submit": "Submit",
+    "sending": "Sending…",
+    "success": "Your message has been sent.",
+    "errorSummary": "Please correct the highlighted fields.",
+    "validation": {
+      "name": "Please enter your name.",
+      "email": "Please enter a valid email address.",
+      "organisation": "Please enter your organisation.",
+      "messageMin": "Please enter at least 10 characters.",
+      "messageMax": "Please keep your message under 2000 characters.",
+      "consent": "Please confirm consent before submitting."
+    },
+    "contact": {
+      "name": "Your name",
+      "email": "Email address",
+      "message": "Message",
+      "consentLabel": "I agree to be contacted in relation to this inquiry." 
+    },
+    "partner": {
+      "name": "Your name",
+      "organisation": "Organisation",
+      "type": "Organisation type",
+      "email": "Email address",
+      "phone": "Phone",
+      "interest": "Area of interest",
+      "message": "Project details",
+      "consentLabel": "I agree to be contacted about this partnership request."
+    }
+  },
+  "a11y": {
+    "skipLink": "Skip to main content",
+    "closeDialog": "Close dialog"
+  },
+  "construction": {
+    "title": "Page under construction",
+    "lede": "We are still building this page. Please check back soon.",
+    "backHome": "Back to home",
+    "exploreStudentAssistant": "Explore Student Assistant"
+  },
+  "seo": {
+    "defaultDescription": "Veda AI Technologies builds practical AI products that make knowledge accessible.",
+    "homeTitle": "Home",
+    "productsTitle": "Products",
+    "aboutTitle": "About",
+    "visionTitle": "Vision & impact",
+    "faqTitle": "FAQ",
+    "blogTitle": "Blog",
+    "contactTitle": "Contact",
+    "privacyTitle": "Privacy",
+    "termsTitle": "Terms"
+  }
+}
